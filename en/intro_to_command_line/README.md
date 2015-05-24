@@ -16,7 +16,8 @@ To start some experiments we need to open our command-line interface first.
 
 ### Windows
 
-Go to Start menu → All Programs → Accessories → Command Prompt.
+Go to Start menu → All Programs → Accessories → Command Prompt
+or use Windows + R keyboard shortcut.
 
 ### Mac OS X
 
